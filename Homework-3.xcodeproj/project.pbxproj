@@ -7,6 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A10CC2119F0327700160087 /* Characters.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A10CC2019F0327700160087 /* Characters.m */; };
+		0A10CC2419F032C100160087 /* Flights.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A10CC2319F032C100160087 /* Flights.m */; };
+		0A10CC2719F0331B00160087 /* Declarations.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A10CC2619F0331B00160087 /* Declarations.m */; };
+		0A10CC2A19F03CD900160087 /* Persons.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A10CC2919F03CD900160087 /* Persons.m */; };
+		0A801DDC19F205D00001778C /* Date.m in Sources */ = {isa = PBXBuildFile; fileRef = 0A801DDB19F205D00001778C /* Date.m */; };
+		0A801DDF19F21F550001778C /* date.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A801DDD19F21F550001778C /* date.png */; };
+		0A801DE019F21F550001778C /* plain.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A801DDE19F21F550001778C /* plain.png */; };
+		0A801DE219F221040001778C /* avengers.png in Resources */ = {isa = PBXBuildFile; fileRef = 0A801DE119F221040001778C /* avengers.png */; };
+		0A9ECD5319F07C5F008A3FFA /* capitan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD4919F07C5F008A3FFA /* capitan.jpg */; };
+		0A9ECD5419F07C5F008A3FFA /* hulk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD4A19F07C5F008A3FFA /* hulk.jpg */; };
+		0A9ECD5519F07C5F008A3FFA /* iron.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD4B19F07C5F008A3FFA /* iron.jpg */; };
+		0A9ECD5619F07C5F008A3FFA /* loki.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD4C19F07C5F008A3FFA /* loki.jpg */; };
+		0A9ECD5719F07C5F008A3FFA /* maria.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD4D19F07C5F008A3FFA /* maria.jpg */; };
+		0A9ECD5819F07C5F008A3FFA /* nick.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD4E19F07C5F008A3FFA /* nick.jpg */; };
+		0A9ECD5919F07C5F008A3FFA /* ojo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD4F19F07C5F008A3FFA /* ojo.jpg */; };
+		0A9ECD5A19F07C5F008A3FFA /* phil.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD5019F07C5F008A3FFA /* phil.jpg */; };
+		0A9ECD5B19F07C5F008A3FFA /* thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD5119F07C5F008A3FFA /* thor.jpg */; };
+		0A9ECD5C19F07C5F008A3FFA /* viuda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD5219F07C5F008A3FFA /* viuda.jpg */; };
+		0A9ECD5E19F0A63C008A3FFA /* avengers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A9ECD5D19F0A63C008A3FFA /* avengers.jpg */; };
 		0AF5DAAD19EF6E220013D2C2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AF5DAAC19EF6E220013D2C2 /* main.m */; };
 		0AF5DAB019EF6E220013D2C2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AF5DAAF19EF6E220013D2C2 /* AppDelegate.m */; };
 		0AF5DAB319EF6E220013D2C2 /* Homework_3.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0AF5DAB119EF6E220013D2C2 /* Homework_3.xcdatamodeld */; };
@@ -28,6 +47,30 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A10CC1F19F0327700160087 /* Characters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Characters.h; sourceTree = "<group>"; };
+		0A10CC2019F0327700160087 /* Characters.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Characters.m; sourceTree = "<group>"; };
+		0A10CC2219F032C100160087 /* Flights.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flights.h; sourceTree = "<group>"; };
+		0A10CC2319F032C100160087 /* Flights.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Flights.m; sourceTree = "<group>"; };
+		0A10CC2519F0331B00160087 /* Declarations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Declarations.h; sourceTree = "<group>"; };
+		0A10CC2619F0331B00160087 /* Declarations.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Declarations.m; sourceTree = "<group>"; };
+		0A10CC2819F03CD900160087 /* Persons.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Persons.h; sourceTree = "<group>"; };
+		0A10CC2919F03CD900160087 /* Persons.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Persons.m; sourceTree = "<group>"; };
+		0A801DDA19F205D00001778C /* Date.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Date.h; sourceTree = "<group>"; };
+		0A801DDB19F205D00001778C /* Date.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Date.m; sourceTree = "<group>"; };
+		0A801DDD19F21F550001778C /* date.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = date.png; sourceTree = "<group>"; };
+		0A801DDE19F21F550001778C /* plain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plain.png; sourceTree = "<group>"; };
+		0A801DE119F221040001778C /* avengers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avengers.png; sourceTree = "<group>"; };
+		0A9ECD4919F07C5F008A3FFA /* capitan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = capitan.jpg; sourceTree = "<group>"; };
+		0A9ECD4A19F07C5F008A3FFA /* hulk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hulk.jpg; sourceTree = "<group>"; };
+		0A9ECD4B19F07C5F008A3FFA /* iron.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iron.jpg; sourceTree = "<group>"; };
+		0A9ECD4C19F07C5F008A3FFA /* loki.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = loki.jpg; sourceTree = "<group>"; };
+		0A9ECD4D19F07C5F008A3FFA /* maria.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maria.jpg; sourceTree = "<group>"; };
+		0A9ECD4E19F07C5F008A3FFA /* nick.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nick.jpg; sourceTree = "<group>"; };
+		0A9ECD4F19F07C5F008A3FFA /* ojo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ojo.jpg; sourceTree = "<group>"; };
+		0A9ECD5019F07C5F008A3FFA /* phil.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = phil.jpg; sourceTree = "<group>"; };
+		0A9ECD5119F07C5F008A3FFA /* thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thor.jpg; sourceTree = "<group>"; };
+		0A9ECD5219F07C5F008A3FFA /* viuda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = viuda.jpg; sourceTree = "<group>"; };
+		0A9ECD5D19F0A63C008A3FFA /* avengers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = avengers.jpg; sourceTree = "<group>"; };
 		0AF5DAA719EF6E220013D2C2 /* Homework-3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Homework-3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AF5DAAB19EF6E220013D2C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AF5DAAC19EF6E220013D2C2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -62,6 +105,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0A9ECD3419F07BE7008A3FFA /* img */ = {
+			isa = PBXGroup;
+			children = (
+				0A801DE119F221040001778C /* avengers.png */,
+				0A801DDD19F21F550001778C /* date.png */,
+				0A801DDE19F21F550001778C /* plain.png */,
+				0A9ECD5D19F0A63C008A3FFA /* avengers.jpg */,
+				0A9ECD4F19F07C5F008A3FFA /* ojo.jpg */,
+				0A9ECD4919F07C5F008A3FFA /* capitan.jpg */,
+				0A9ECD4A19F07C5F008A3FFA /* hulk.jpg */,
+				0A9ECD4B19F07C5F008A3FFA /* iron.jpg */,
+				0A9ECD4C19F07C5F008A3FFA /* loki.jpg */,
+				0A9ECD4D19F07C5F008A3FFA /* maria.jpg */,
+				0A9ECD4E19F07C5F008A3FFA /* nick.jpg */,
+				0A9ECD5019F07C5F008A3FFA /* phil.jpg */,
+				0A9ECD5119F07C5F008A3FFA /* thor.jpg */,
+				0A9ECD5219F07C5F008A3FFA /* viuda.jpg */,
+			);
+			name = img;
+			sourceTree = "<group>";
+		};
 		0AF5DA9E19EF6E220013D2C2 = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +147,16 @@
 		0AF5DAA919EF6E220013D2C2 /* Homework-3 */ = {
 			isa = PBXGroup;
 			children = (
+				0A10CC2519F0331B00160087 /* Declarations.h */,
+				0A10CC2619F0331B00160087 /* Declarations.m */,
+				0A10CC2819F03CD900160087 /* Persons.h */,
+				0A10CC2919F03CD900160087 /* Persons.m */,
+				0A10CC1F19F0327700160087 /* Characters.h */,
+				0A10CC2019F0327700160087 /* Characters.m */,
+				0A10CC2219F032C100160087 /* Flights.h */,
+				0A10CC2319F032C100160087 /* Flights.m */,
+				0A801DDA19F205D00001778C /* Date.h */,
+				0A801DDB19F205D00001778C /* Date.m */,
 				0AF5DAAE19EF6E220013D2C2 /* AppDelegate.h */,
 				0AF5DAAF19EF6E220013D2C2 /* AppDelegate.m */,
 				0AF5DAB419EF6E220013D2C2 /* ViewController.h */,
@@ -99,6 +173,7 @@
 		0AF5DAAA19EF6E220013D2C2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0A9ECD3419F07BE7008A3FFA /* img */,
 				0AF5DAAB19EF6E220013D2C2 /* Info.plist */,
 				0AF5DAAC19EF6E220013D2C2 /* main.m */,
 			);
@@ -202,8 +277,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A801DE019F21F550001778C /* plain.png in Resources */,
+				0A9ECD5A19F07C5F008A3FFA /* phil.jpg in Resources */,
+				0A801DE219F221040001778C /* avengers.png in Resources */,
 				0AF5DAB919EF6E220013D2C2 /* Main.storyboard in Resources */,
+				0A9ECD5519F07C5F008A3FFA /* iron.jpg in Resources */,
+				0A9ECD5C19F07C5F008A3FFA /* viuda.jpg in Resources */,
+				0A9ECD5719F07C5F008A3FFA /* maria.jpg in Resources */,
+				0A9ECD5B19F07C5F008A3FFA /* thor.jpg in Resources */,
+				0A9ECD5419F07C5F008A3FFA /* hulk.jpg in Resources */,
+				0A9ECD5919F07C5F008A3FFA /* ojo.jpg in Resources */,
+				0A9ECD5E19F0A63C008A3FFA /* avengers.jpg in Resources */,
+				0A9ECD5819F07C5F008A3FFA /* nick.jpg in Resources */,
 				0AF5DABE19EF6E220013D2C2 /* LaunchScreen.xib in Resources */,
+				0A801DDF19F21F550001778C /* date.png in Resources */,
+				0A9ECD5619F07C5F008A3FFA /* loki.jpg in Resources */,
+				0A9ECD5319F07C5F008A3FFA /* capitan.jpg in Resources */,
 				0AF5DABB19EF6E220013D2C2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -222,9 +311,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0A10CC2119F0327700160087 /* Characters.m in Sources */,
+				0A801DDC19F205D00001778C /* Date.m in Sources */,
+				0A10CC2419F032C100160087 /* Flights.m in Sources */,
 				0AF5DAB319EF6E220013D2C2 /* Homework_3.xcdatamodeld in Sources */,
+				0A10CC2719F0331B00160087 /* Declarations.m in Sources */,
 				0AF5DAB019EF6E220013D2C2 /* AppDelegate.m in Sources */,
 				0AF5DAB619EF6E220013D2C2 /* ViewController.m in Sources */,
+				0A10CC2A19F03CD900160087 /* Persons.m in Sources */,
 				0AF5DAAD19EF6E220013D2C2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -416,6 +510,7 @@
 				0AF5DACF19EF6E220013D2C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AF5DAD019EF6E220013D2C2 /* Build configuration list for PBXNativeTarget "Homework-3Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +519,7 @@
 				0AF5DAD219EF6E220013D2C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
